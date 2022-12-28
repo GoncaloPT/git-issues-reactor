@@ -1,5 +1,4 @@
 name: Run Gradle on PRs
-on: master
 jobs:
   gradle:
     strategy:
